@@ -1,0 +1,89 @@
+﻿@page
+@using CRUD_Tasks.Models @*namespace*@
+@model CRUD_Tasks.Pages.TaskModel
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+<h2>Tasks</h2>
+<p>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("Title")
+            </th>
+            <th>
+                @Html.DisplayName("Description")
+            </th>
+            <th>
+                @Html.DisplayName("Status")
+            </th>
+            <th>
+                @Html.DisplayName("Priority")
+            </th>
+            <th>Edit | Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.TaskList)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.priority)
+                </td>
+                <td>
+                    <a asp-page="./EditTask" asp-route-title="@item.title">Edit</a> |
+                    <a onclick="return confirm('Are you sure you want to delete this item?');" asp-page-handler="delete" asp-route-title="@item.title">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="container">
+    <h3>Add Task</h3>
+    <br />
+    <form method="post">
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="_task.title"></label>
+                <input asp-for="_task.title" class="form-control" />
+                <span class="alert-danger" asp-validation-for="_task.title"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="_task.description"></label>
+                <input asp-for="_task.description" class="form-control" />
+                <span class="alert-danger" asp-validation-for="_task.description"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="_task.status"></label>
+                <input asp-for="_task.status" class="form-control" />
+                <span class="alert-danger" asp-validation-for="_task.status"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="_task.priority"></label>
+                <input asp-for="_task.priority" cl class="form-control" />
+                <span class="alert-danger" asp-validation-for="_task.priority"></span>
+            </div>
+        </div>
+        <br />
+        <input type="submit" value="Add" class="btn btn-primary" />
+        <a class="btn btn-default" href="/Task">Cancel</a>
+    </form>
+</div>

@@ -1,0 +1,12 @@
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/netcoreapp3.1/SingletonDesignPattern.deps.json
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/netcoreapp3.1/SingletonDesignPattern.runtimeconfig.json
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/netcoreapp3.1/SingletonDesignPattern.runtimeconfig.dev.json
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/netcoreapp3.1/SingletonDesignPattern.dll
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/netcoreapp3.1/SingletonDesignPattern.pdb
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/netcoreapp3.1/SingletonDesignPattern.csprojAssemblyReference.cache
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/netcoreapp3.1/SingletonDesignPattern.csproj.CoreCompileInputs.cache
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/netcoreapp3.1/SingletonDesignPattern.AssemblyInfoInputs.cache
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/netcoreapp3.1/SingletonDesignPattern.AssemblyInfo.cs
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/netcoreapp3.1/SingletonDesignPattern.dll
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/netcoreapp3.1/SingletonDesignPattern.pdb
+/Users/ali.zar/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/netcoreapp3.1/SingletonDesignPattern.genruntimeconfig.cache

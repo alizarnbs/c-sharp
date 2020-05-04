@@ -1,0 +1,12 @@
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/bin/Debug/netcoreapp3.1/DelegatesEvents.deps.json
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/bin/Debug/netcoreapp3.1/DelegatesEvents.runtimeconfig.json
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/bin/Debug/netcoreapp3.1/DelegatesEvents.runtimeconfig.dev.json
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/bin/Debug/netcoreapp3.1/DelegatesEvents.dll
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/bin/Debug/netcoreapp3.1/DelegatesEvents.pdb
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/obj/Debug/netcoreapp3.1/DelegatesEvents.csprojAssemblyReference.cache
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/obj/Debug/netcoreapp3.1/DelegatesEvents.csproj.CoreCompileInputs.cache
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/obj/Debug/netcoreapp3.1/DelegatesEvents.AssemblyInfoInputs.cache
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/obj/Debug/netcoreapp3.1/DelegatesEvents.AssemblyInfo.cs
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/obj/Debug/netcoreapp3.1/DelegatesEvents.dll
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/obj/Debug/netcoreapp3.1/DelegatesEvents.pdb
+/Users/ali.zar/Projects/DelegatesEvents/DelegatesEvents/obj/Debug/netcoreapp3.1/DelegatesEvents.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+﻿@page
+@model CRUD_Tasks.Pages.EditTaskModel
+<div class="container">
+    <h3>Edit Task</h3>
+    <hr />
+    <br />
+    <form method="post">
+        <input asp-for="_task.title" type="hidden" />
+        <div class="row">
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="_task.description"></label>
+                <input asp-for="_task.description" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="_task.status"></label>
+                <input asp-for="_task.status" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="_task.priority"></label>
+                <input asp-for="_task.priority" class="form-control" />
+            </div>
+        </div>
+        <br />
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a class="btn btn-default" href="/Task">Cancel</a>
+    </form>
+</div>

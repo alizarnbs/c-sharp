@@ -1,0 +1,12 @@
+/Users/ali.zar/Projects/XMLParser/XMLParser/bin/Debug/netcoreapp3.1/XMLParser.deps.json
+/Users/ali.zar/Projects/XMLParser/XMLParser/bin/Debug/netcoreapp3.1/XMLParser.runtimeconfig.json
+/Users/ali.zar/Projects/XMLParser/XMLParser/bin/Debug/netcoreapp3.1/XMLParser.runtimeconfig.dev.json
+/Users/ali.zar/Projects/XMLParser/XMLParser/bin/Debug/netcoreapp3.1/XMLParser.dll
+/Users/ali.zar/Projects/XMLParser/XMLParser/bin/Debug/netcoreapp3.1/XMLParser.pdb
+/Users/ali.zar/Projects/XMLParser/XMLParser/obj/Debug/netcoreapp3.1/XMLParser.csprojAssemblyReference.cache
+/Users/ali.zar/Projects/XMLParser/XMLParser/obj/Debug/netcoreapp3.1/XMLParser.csproj.CoreCompileInputs.cache
+/Users/ali.zar/Projects/XMLParser/XMLParser/obj/Debug/netcoreapp3.1/XMLParser.AssemblyInfoInputs.cache
+/Users/ali.zar/Projects/XMLParser/XMLParser/obj/Debug/netcoreapp3.1/XMLParser.AssemblyInfo.cs
+/Users/ali.zar/Projects/XMLParser/XMLParser/obj/Debug/netcoreapp3.1/XMLParser.dll
+/Users/ali.zar/Projects/XMLParser/XMLParser/obj/Debug/netcoreapp3.1/XMLParser.pdb
+/Users/ali.zar/Projects/XMLParser/XMLParser/obj/Debug/netcoreapp3.1/XMLParser.genruntimeconfig.cache
